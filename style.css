@@ -1,0 +1,32 @@
+* {
+    MARGIN: 0;
+    PADDING: 0;
+}
+
+nav {
+    display: flex;
+}
+
+nav img {
+    margin: 38px 0 14px 108px
+}
+
+nav ul {
+    padding-left: 190px;
+    margin-top: 56px;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 45px;
+}
+
+aside p {
+    background: #F00;
+    /* rotate: 270deg; */
+    position: absolute;
+    top: 0;
+    right: 0;
+    /* margin: 49px 45px 0 0 ; */
+    margin: 60px 15px 0 0 ;
+}
